@@ -7,7 +7,7 @@ spring -boot
    public static void main(String []args){
 
 
-   Sout("hello");
+   Sout("hello JAVA");
 
 
 
